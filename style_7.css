@@ -1,0 +1,23 @@
+body
+{
+
+  background-image: url(header.jpg);
+  background-size: cover;
+  height: 100%S;
+  font-family: 'Montserrat', sans-serif;
+}
+h1
+{
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 260px;
+}
+.btn-danger
+
+{
+    justify: center;
+    margin-left: 480px;
+    margin-top: 150px;
+}

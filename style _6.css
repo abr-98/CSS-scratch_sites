@@ -1,0 +1,14 @@
+body
+{
+
+  background-image: url(header.jpg);
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+}
+h1
+{
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 12px;
+  justify:center;
+}
